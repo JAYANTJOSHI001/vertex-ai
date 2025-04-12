@@ -153,7 +153,7 @@ export default function LoginPage() {
             </div>
             
             <div className="mt-8 text-right">
-              <Link href="/register" className="text-sm text-[#34A853] hover:text-white">
+              <Link href="/signup" className="text-sm text-[#34A853] hover:text-white">
                 Create Account
               </Link>
             </div>
