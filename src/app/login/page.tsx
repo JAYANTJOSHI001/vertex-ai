@@ -151,7 +151,6 @@ export default function LoginPage() {
                 Sign in with Google
               </button>
             </div>
-            
             <div className="mt-8 text-right">
               <Link href="/signup" className="text-sm text-[#34A853] hover:text-white">
                 Create Account
@@ -159,7 +158,6 @@ export default function LoginPage() {
             </div>
           </div>
         </div>
-
         {/* Right side testimonials section remains commented out */}
       </div>
     </div>
